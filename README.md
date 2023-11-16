@@ -12,6 +12,7 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 
 ## Running Locally
 
+VERCEL_FORCE_NO_BUILD_CACHE=1
 
 ```sh-session
 git clone https://github.com/chronark/chronark.com.git
